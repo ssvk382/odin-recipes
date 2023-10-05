@@ -1,0 +1,1 @@
+#This project is for creating a website in HTML, practicing HTML basics as well as operating in git / github
